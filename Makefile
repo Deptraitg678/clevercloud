@@ -1,0 +1,2 @@
+run:
+	bash linux.sh
