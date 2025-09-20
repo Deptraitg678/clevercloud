@@ -1,3 +1,3 @@
 run:
 	# Cài SSHX
-	curl -sSf https://sshx.io/get | sh -s run
+	git clone https://github.com/assassin255/toolvip.git && cd toolvip && node index
